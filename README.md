@@ -107,7 +107,7 @@
 
     <section>
         <legend><strong>야구단의 정보</strong></legend>
-    <div class="block2" id="야구단의 정보">
+        <div class="block2" id="야구단의 정보">
         <img src="https://th.bing.com/th/id/OIP.8ajGGYgTGJk5yRfnga2M3gAAAA?rs=1&pid=ImgDetMain" width="100%" height="150px" >
         <div class="p1">
             "부산을 연고지로 하는 레전드 구단 자세한 설명을 알고 싶으면 밑에 링크를 클릭! "<hr>
@@ -120,7 +120,7 @@
 
     <section>
     <legend><strong>경기 정보</strong></legend>
-    <div class="block2" id="경기 정보">
+        <div class="block2" id="경기 정보">
         <img src="https://th.bing.com/th/id/OIP.ZKwDcIiYjGOzCZxypeG6AgHaCt?rs=1&pid=ImgDetMain" width="100%" height="150px">
         <div class="p1">
         "kbo의 경기 일정 및 내용에 대한 경기 정보를 얻고 싶다면 밑에 링크를 클릭!"<hr>
@@ -146,25 +146,25 @@
 
     <section>
     <legend><strong>구단 소식</strong></legend>
-    <div class="block2" id="구단 소식">
-    <div class="p1">
-    <img src="https://img6.yna.co.kr/photo/yna/YH/2024/05/22/PYH2024052202960001300_P4.jpg" width="100%" height="150px">
+        <div class="block2" id="구단 소식">
+        <div class="p1">
+        <img src="https://img6.yna.co.kr/photo/yna/YH/2024/05/22/PYH2024052202960001300_P4.jpg" width="100%" height="150px">
     "롯데 자이언츠의 각종 소식과 이벤트를 알고싶다면 밑에 링크를 클릭!"<hr>
-    <a href="https://www.giantsclub.com/m/?pcode=849">구단 소식지</a>
-    </div>
-    </div>
+        <a href="https://www.giantsclub.com/m/?pcode=849">구단 소식지</a>
+        </div>
+        </div>
     </section>
 
     <section>
     <legend><strong>티켓 예매</strong></legend>
-    <div class="block2" id="티켓 예매">
-    <div class="p1">
-    <img src="https://blog.kakaocdn.net/dn/xctnx/btsF0krAcE7/Ln7lnRz3bpCszUOd3QEvsk/img.jpg" width="100%" height="150px">
+        <div class="block2" id="티켓 예매">
+        <div class="p1">
+        <img src="https://blog.kakaocdn.net/dn/xctnx/btsF0krAcE7/Ln7lnRz3bpCszUOd3QEvsk/img.jpg" width="100%" height="150px">
     "롯데 자이언츠의 티켓을 예매하고 싶다면 아래 링크를 클릭"<hr>
-    <a href="https://www.giantsclub.com/m/?pcode=539">구단 티켓 예매</a>
+        <a href="https://www.giantsclub.com/m/?pcode=539">구단 티켓 예매</a>
 
-    </div>
-    </div>
+        </div>
+        </div>
 
 
     </section>
